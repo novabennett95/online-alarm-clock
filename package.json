@@ -1,0 +1,25 @@
+{
+  "name": "novabennett95-online-alarm-clock",
+  "version": "1.0.0",
+  "description": "Online Alarm Clock a free online alarm clock with custom sounds, YouTube alarms, and no downloads required",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "online-alarm-clock",
+    "alarm-clock",
+    "alarm",
+    "timer",
+    "web-app",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Clockii",
+  "license": "ISC",
+  "homepage": "https://clockii.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novabennett95/online-alarm-clock.git"
+  }
+}
